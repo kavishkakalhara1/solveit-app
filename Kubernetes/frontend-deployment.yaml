@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: collinskimutai72/mahkeja-frontend
+          image: kavishkakalhara/solveit-frontend
           ports:
             - containerPort: 3001
           envFrom:
